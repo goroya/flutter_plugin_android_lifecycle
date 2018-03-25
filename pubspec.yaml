@@ -1,8 +1,8 @@
 name: android_lifecycle
 description: Hock Android LifeCycle Library for flutter
 version: 0.0.1
-author: goroya.io
-homepage:
+author: goroya.io<goroyadevelop@gmail.com>
+homepage: https://github.com/goroya/flutter_plugin_android_lifecycle
 
 dependencies:
   flutter:
@@ -47,3 +47,6 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.io/custom-fonts/#from-packages
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"
