@@ -1,6 +1,6 @@
 name: android_lifecycle
 description: Hock Android LifeCycle Library for flutter
-version: 0.0.1
+version: 0.0.2
 author: goroya.io<goroyadevelop@gmail.com>
 homepage: https://github.com/goroya/flutter_plugin_android_lifecycle
 
